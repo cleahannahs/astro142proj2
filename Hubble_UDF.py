@@ -2,6 +2,7 @@
 # Clea Hannahs
 # Astro 142 UCLA Fall 2023
 # Project 2
+#
 
 import numpy as np
 import matplotlib.pyplot as plt
